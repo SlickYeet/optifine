@@ -1,0 +1,14 @@
+My current situation is this; I wanted a smoother transition between soul sand, stone and obsidian, for a specific project.
+However, for some reason it does not seem to work. I have tryed making a standalone pack for just these three blocks, lo and behold
+it also did not work. Also I have tryed overlaying a dirt overlay, I had, onto soul sand, and that worked. So, now I am here and confused.
+If anyone is able to help, I would appreciate it a lot.
+
+My config file looks like this:
+
+matchBlocks=stone obsidian
+method=overlay
+tiles=0-16
+connectBlocks=soul_sand
+layer=cutout
+
+If you need anything else feel free to ask.
